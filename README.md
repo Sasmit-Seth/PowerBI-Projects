@@ -1,31 +1,66 @@
 # 📊 Power BI Projects
 
-Welcome to my Power BI portfolio!
+Welcome to my Power BI portfolio! This repository showcases interactive dashboards developed using **Power BI** to solve real-world business problems through data analysis, visualization, and business intelligence.
 
-This repository contains interactive dashboards built using Power BI to solve real-world business problems through data visualization and analytics.
+## 🚀 About
 
-## Projects
+I am an aspiring Data Analyst passionate about transforming raw data into actionable insights. These projects demonstrate my skills in:
 
-### 📈 FinSight Finance Analytics Dashboard
-- Financial KPI Monitoring
-- Customer Analytics
-- Revenue & Profit Analysis
-- Interactive Filters
-- DAX Measures
-- Power Query
-- Data Modeling
+- 📈 Data Visualization
+- 📊 Business Intelligence
+- 🧮 DAX (Data Analysis Expressions)
+- 🔄 Power Query
+- 🗂️ Data Modeling
+- 📉 KPI Dashboard Development
+- 📌 Interactive Report Design
 
 ---
 
-## Tools Used
+# 📂 Projects
 
-- Power BI
+## 📌 FinSight Finance Analytics Dashboard
+
+An interactive financial analytics dashboard designed to help stakeholders monitor business performance and make data-driven decisions.
+
+### 🔍 Key Features
+
+- Comprehensive KPI Monitoring
+  - Total Amount
+  - Total Transactions
+  - Average Transaction Value
+  - Total Fees
+  - Total Tax
+
+- Interactive Analytics
+  - Dynamic filters for Year, Occupation, Category, and Measures
+  - Interactive visualizations
+
+- Transaction Analysis
+  - Drill-through functionality
+  - Detailed transaction records
+
+- Customer & Regional Insights
+  - State-wise financial performance
+  - Customer segmentation
+  - Business trend analysis
+
+### 🛠️ Technologies Used
+
+- Microsoft Power BI
 - Power Query
 - DAX
-- Excel
-- SQL
+- Microsoft Excel
 - Data Modeling
 
 ---
 
-More dashboards coming soon...
+## 📈 Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Cleaning & Transformation
+- DAX Calculations
+- Data Modeling
+- Financial Analytics
+- KPI Reporting
+- Business Intelligence
+- Data Visualization
